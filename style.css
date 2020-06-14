@@ -1,6 +1,7 @@
 * {
     margin: 0;
     font-family: "Inter";
+    scroll-behavior: smooth;
 }
 
 p {
