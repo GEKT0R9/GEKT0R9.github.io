@@ -29,7 +29,7 @@ header > div > a > img {
     margin: 5px;
 }
 header > div > p{
-    margin-top: 25px;
+    margin-top: 10px;
 }
 header > div:nth-child(2){
     text-align: right;
